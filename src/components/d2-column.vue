@@ -170,3 +170,10 @@ export default {
   }
 }
 </script>
+
+
+<style lang="">
+  .box {
+    width:100%;
+  }
+</style>
